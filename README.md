@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Celeste</h1>
-<h3 align="center">A passionate frontend developer from Italy, this doesn't mean i'm good at it (I suck lol)</h3>
+<h1 align="left">Hi 👋, I'm Celeste</h1>
+<h3 align="left">A passionate frontend developer from Italy, this doesn't mean i'm good at it (I suck lol)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azel04&label=Profile%20views&color=0e75b6&style=flat" alt="azel04" /> </p>
 
