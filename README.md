@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Azel04](github.com/Azel04)
 
-- 📝 I regularly write articles on [Linux](Linux)
+- 📝 I regularly read articles on [Linux](Linux)
 
 - ⚡ Fun fact **i have 2 functioning brain cells**
 
