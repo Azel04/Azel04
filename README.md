@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Celeste</h1>
+<h1 align="left">Hi 👋, I'm Celeste!</h1>
 <h3 align="left">A passionate frontend developer from Italy, this doesn't mean i'm good at it (I suck lol)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azel04&label=Profile%20views&color=0e75b6&style=flat" alt="azel04" /> </p>
@@ -14,7 +14,7 @@
 
 - 📝 I regularly read articles on [Linux](Linux)
 
-- ⚡ Fun fact **i have 2 functioning brain cells and they all barely work**
+- ⚡ Fun fact **i have 2 functioning brain cells and they all barely work**. Also I'm Transgender (She/Her)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
